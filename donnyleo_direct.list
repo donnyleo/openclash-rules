@@ -1,6 +1,10 @@
 # tvbox视频源
 DOMAIN-SUFFIX,dytt-cinema.com
 
+# TVBox 肥猫影视源
+DOMAIN-SUFFIX,feimao.top
+DOMAIN-SUFFIX,xn--sss604efuw.top
+
 # 微软国内服务推荐直连
 DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
