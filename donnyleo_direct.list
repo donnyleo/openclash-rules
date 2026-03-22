@@ -1,10 +1,10 @@
 # 你可以在这里继续添加其他需要直连的域名
 DOMAIN-SUFFIX,dytt-cinema.com
 
-#微软国内服务
-DOMAIN-SUFFIX,download.windowsupdate.com,直连
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,直连
-DOMAIN-SUFFIX,officecdn.microsoft.com,直连
-DOMAIN-SUFFIX,msftconnecttest.com,直连
-DOMAIN-SUFFIX,msftncsi.com,直连
+#微软国内服务推荐直连
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-KEYWORD,microsoftonline.cn
