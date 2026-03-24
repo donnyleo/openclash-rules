@@ -1,9 +1,8 @@
-# tvbox视频源
-DOMAIN-SUFFIX,dytt-cinema.com
 # 直连
 DOMAIN-SUFFIX,2007543.xyz
 
-# TVBox 肥猫影视源
+# TVBox 视频源
+DOMAIN-SUFFIX,dytt-cinema.com
 DOMAIN-SUFFIX,feimao.top
 DOMAIN-SUFFIX,xn--sss604efuw.top
 
