@@ -8,8 +8,8 @@ DOMAIN-SUFFIX,feimao.top
 DOMAIN-SUFFIX,xn--sss604efuw.top
 
 # cloudflare隧道
-IP-CIDR,198.41.192.0/18
-IP-CIDR,162.159.0.0/16
+# IP-CIDR,198.41.192.0/18
+# IP-CIDR,162.159.0.0/16
 DOMAIN-KEYWORD,cloudflared
 
 # 微软国内服务推荐直连
