@@ -21,3 +21,8 @@ DOMAIN-SUFFIX,officecdn.microsoft.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-KEYWORD,microsoftonline.cn
+
+#游戏下载
+DOMAIN-SUFFIX,dodi-repacks.site
+DOMAIN-SUFFIX,fitgirl-repacks.site
+DOMAIN-SUFFIX,game-repacks.site
