@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,funplus.com
 DOMAIN-SUFFIX,iplark.com
 DOMAIN-SUFFIX,webshare.io
 
+#游戏下载
+DOMAIN-SUFFIX,dodi-repacks.site
+DOMAIN-SUFFIX,fitgirl-repacks.site
+DOMAIN-SUFFIX,game-repacks.site
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
