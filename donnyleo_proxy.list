@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,game-repacks.site
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,-repacks.site
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
